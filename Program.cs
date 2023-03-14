@@ -8,6 +8,7 @@ namespace ConsoleApp7
         {
             Console.WriteLine("Alo Ante!");
             Console.WriteLine("Novo");
+            Console.WriteLine("Vozdra!");
         }
     }
 }
