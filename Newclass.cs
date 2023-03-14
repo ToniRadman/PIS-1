@@ -6,5 +6,6 @@ namespace ConsoleApp7
 {
     class Newclass
     {
+        void PrintText();
     }
 }
